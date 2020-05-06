@@ -1,6 +1,6 @@
 # PDF 2 WordCloud
 
-![](examples\aep-bird-migration-protocol-2020_wordcloud_20200505_191939.jpeg)
+![](examples/aep-bird-migration-protocol-2020_wordcloud_20200505_191939.jpeg)
 <p style="text-align: center;">
 <a href="https://open.alberta.ca/publications/bird-migration-survey-protocol">
 Bird migration survey protocol - Government of Alberta, Canada
@@ -67,7 +67,7 @@ Here are some replicable examples. Source images are located in `examples/` fold
 *Click on any wordcloud image to open pdf source link.*
 
 ### Reports
-![](examples\aep-2018-19-oil-sands-monitoring-annual-report-2019-09_wordcloud_20200505_185822.jpeg)
+![](examples/aep-2018-19-oil-sands-monitoring-annual-report-2019-09_wordcloud_20200505_185822.jpeg)
 <p style="text-align: center;">
 <a href="https://open.alberta.ca/publications/2562-9182">
 Oil sand annual monitoring report - Government of Alberta, Canada
@@ -75,21 +75,21 @@ Oil sand annual monitoring report - Government of Alberta, Canada
 </p>
 
 ### Books
-![](examples\1984_wordcloud_20200505_183953.jpeg)
+![](examples/1984_wordcloud_20200505_183953.jpeg)
 <p style="text-align: center;">
 <a href="https://www.planetebook.com/1984/">
 1984 - by George Orwell
 </a>
 </p>
 
-[![](examples\pandp12p2_wordcloud_20200505_184109.jpeg)]()
+[![](examples/pandp12p2_wordcloud_20200505_184109.jpeg)]()
 <p style="text-align: center;">
 <a href="https://www.gutenberg.org/ebooks/1342">
 Pride and Prejudice - by Jane Austen
 </a>
 </p>
 
-![](examples\robinson-crusoe_wordcloud_20200505_184250.jpeg)
+![](examples/robinson-crusoe_wordcloud_20200505_184250.jpeg)
 <p style="text-align: center;">
 <a href="https://www.planetebook.com/robinson-crusoe/">
 Robinson Crusoe - by Daniel Defoe
@@ -97,7 +97,7 @@ Robinson Crusoe - by Daniel Defoe
 </p>
 
 ### Resumes
-![](examples\resume-samples_wordcloud_20200505_184913.jpeg)
+![](examples/resume-samples_wordcloud_20200505_184913.jpeg)
 <p style="text-align: center;">
 <a href="https://www.bellevue.edu/student-support/career-services/pdfs/resume-samples.pdf">
 Resume samples - Bellevue University
