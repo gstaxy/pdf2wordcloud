@@ -6,10 +6,14 @@
 ## Description
 Brind your PDF documents to life using wordclouds to represent keywords and important topics in the text. Sometimes overlooked, wordclouds are a very useful tool to use to summarize information quickly. This repository also includes the possibility to easily add a mask (shape) to the wordcloud.
 
-## Setup environment
-First, fork this repository to your GitHub account and/or then clone it to your computer.
+## Getting started
+To use or develop the repo locally, fork this repository to your GitHub account and/or then clone it to your computer. To clone the master branch locally, navigate to the directory from the console.
+```bash
+> git clone -b master https://github.com/gstaxy/pdf2wordcloud.git
+```
 
-This small app was built in a specific working environment configuration to maintain all functionnalities. To get familiar with virtual environments, please read [the tutorial I wrote on the subject](https://github.com/gstaxy/tutorials/blob/master/how_to_use_virtualenv.md) for Windows and Linux users. From the console (here with PowerShell), run the following lines:
+## Setup environment
+This app was built in a specific working environment configuration to maintain all functionnalities. To get familiar with virtual environments, please read [the tutorial I wrote on the subject](https://github.com/gstaxy/tutorials/blob/master/how_to_use_virtualenv.md) for Windows and Linux users. From the console (here with PowerShell), run the following lines:
 
 ```bash
 # If not installed already
@@ -41,22 +45,22 @@ Now, the environment is ready to generate wordclouds!
 ## Customization
 Most of the wordcloud configurations are located in `config.py` and are directly loaded from there when running `main()`.
 
-### Stopwords
+#### Stopwords
 The most common stopwords are already filtered with the `nltk` library in the text cleaning step. The add custom stopwords, copy the `examples/stopwords.txt` starter file in the root directory and customize it.
 
-### Size of the image
+#### Size of the image
 The current size configurations are specific to LinkedIn profile banners. To customize the image size, change the pixel length of `FIG_HEIGHT` and `FIG_WIDTH` in `config.py`. Some common image sizes used on social medias can be found [on this website](https://louisem.com/2852/social-media-cheat-sheet-sizes).
 
-### Colors
+#### Colors
 The background `BG_COLOR` and text `WORDS_COLORMAP` color can both be changed in `config.py`. Available matplotlib colormaps can be found [here](https://matplotlib.org/examples/color/colormaps_reference.html).
 
-### Number of words
+#### Number of words
 The number of words can be changed under `NUM_OF_WORDS` in `config.py`
 
-### Mask
+#### Mask
 An image outline can be added to the wordcloud to represent a specific shape. To do so, find a `.png` image and copy its URL in `IMAGE_LINK` in the `config.py` file. Make sure the URL link finishes with `.png` once it's copied. The black outline can be modified or removed by modifying arguments in `lib/cloud.py`.
 
-### Language
+#### Language
 The default language used to filter the text is English. To change it, modify the line 28 from `lib/cleaning.py` to the desired language. The custom stopwords will also need to be changed accordingly.
 
 ## Examples
