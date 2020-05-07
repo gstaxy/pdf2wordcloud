@@ -7,6 +7,8 @@
 Brind your PDF documents to life using wordclouds to represent keywords and important topics in the text. Sometimes overlooked, wordclouds are a very useful tool to use to summarize information quickly. This repository also includes the possibility to easily add a mask (shape) to the wordcloud.
 
 ## Setup environment
+First, fork this repository to your GitHub account and/or then clone it to your computer.
+
 This small app was built in a specific working environment configuration to maintain all functionnalities. To get familiar with virtual environments, please read [the tutorial I wrote on the subject](https://github.com/gstaxy/tutorials/blob/master/how_to_use_virtualenv.md) for Windows and Linux users. From the console (here with PowerShell), run the following lines:
 
 ```bash
