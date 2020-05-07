@@ -1,11 +1,7 @@
 # PDF 2 WordCloud
 
-![](examples/aep-bird-migration-protocol-2020_wordcloud_20200505_191939.jpeg)
-<p style="text-align: center;">
-<a href="https://open.alberta.ca/publications/bird-migration-survey-protocol">
-Bird migration survey protocol - Government of Alberta, Canada
-</a>
-</p>
+[![](examples/aep-bird-migration-protocol-2020_wordcloud_20200505_191939.jpeg)](https://open.alberta.ca/publications/bird-migration-survey-protocol)
+<p style="text-align: center;"> <a href="https://open.alberta.ca/publications/bird-migration-survey-protocol"> Bird migration survey protocol - Government of Alberta, Canada </a> </p>
 
 ## Description
 Brind your PDF documents to life using wordclouds to represent keywords and important topics in the text. Sometimes overlooked, wordclouds are a very useful tool to use to summarize information quickly. This repository also includes the possibility to easily add a mask (shape) to the wordcloud.
