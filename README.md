@@ -1,7 +1,7 @@
 # PDF 2 WordCloud
 
-[![](examples/aep-bird-migration-protocol-2020_wordcloud_20200505_191939.jpeg)](https://open.alberta.ca/publications/bird-migration-survey-protocol)
-<p style="text-align: center;"> <a href="https://open.alberta.ca/publications/bird-migration-survey-protocol"> Bird migration survey protocol - Government of Alberta, Canada </a> </p>
+![](examples/aep-bird-migration-protocol-2020_wordcloud_20200505_191939.jpeg)
+<p style="text-align: center;"><a href="https://open.alberta.ca/publications/bird-migration-survey-protocol" rel="noopener noreferrer" target="_blank">Bird migration survey protocol - Government of Alberta, Canada</a></p>
 
 ## Description
 Brind your PDF documents to life using wordclouds to represent keywords and important topics in the text. Sometimes overlooked, wordclouds are a very useful tool to use to summarize information quickly. This repository also includes the possibility to easily add a mask (shape) to the wordcloud.
@@ -64,41 +64,24 @@ Here are some replicable examples. Source images are located in `examples/` fold
 
 ### Reports
 ![](examples/aep-2018-19-oil-sands-monitoring-annual-report-2019-09_wordcloud_20200505_185822.jpeg)
-<p style="text-align: center;">
-<a href="https://open.alberta.ca/publications/2562-9182">
-Oil sand annual monitoring report - Government of Alberta, Canada
-</a>
-</p>
+<p style="text-align: center;"><a href="https://open.alberta.ca/publications/2562-9182" rel="noopener noreferrer" target="_blank">Oil sand annual monitoring report - Government of Alberta, Canada</a></p>
 
 ### Books
 ![](examples/1984_wordcloud_20200505_183953.jpeg)
-<p style="text-align: center;">
-<a href="https://www.planetebook.com/1984/">
-1984 - by George Orwell
-</a>
-</p>
+<p style="text-align: center;"><a href="https://www.planetebook.com/1984/" rel="noopener noreferrer" target="_blank">1984 - by George Orwell</a></p>
 
-[![](examples/pandp12p2_wordcloud_20200505_184109.jpeg)]()
-<p style="text-align: center;">
-<a href="https://www.gutenberg.org/ebooks/1342">
-Pride and Prejudice - by Jane Austen
-</a>
-</p>
+![](examples/pandp12p2_wordcloud_20200505_184109.jpeg)
+<p style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1342" rel="noopener noreferrer" target="_blank">Pride and Prejudice - by Jane Austen</a></p>
 
 ![](examples/robinson-crusoe_wordcloud_20200505_184250.jpeg)
-<p style="text-align: center;">
+<p style="text-align: center;" rel="noopener noreferrer" target="_blank">
 <a href="https://www.planetebook.com/robinson-crusoe/">
 Robinson Crusoe - by Daniel Defoe
-</a>
-</p>
+</a></p>
 
 ### Resumes
 ![](examples/resume-samples_wordcloud_20200505_184913.jpeg)
-<p style="text-align: center;">
-<a href="https://www.bellevue.edu/student-support/career-services/pdfs/resume-samples.pdf">
-Resume samples - Bellevue University
-</a>
-</p>
+<p style="text-align: center;" rel="noopener noreferrer" target="_blank"><a href="https://www.bellevue.edu/student-support/career-services/pdfs/resume-samples.pdf">Resume samples - Bellevue University</a></p>
 
 ---
 #### Future improvements
